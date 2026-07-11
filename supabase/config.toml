@@ -1,0 +1,4 @@
+project_id = "faithly-fair"
+
+[functions.notify-order]
+verify_jwt = false
